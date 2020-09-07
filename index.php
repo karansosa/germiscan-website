@@ -129,6 +129,82 @@
 
 </section>
 
+<section class="on pt-5 pb-5">
+	<div class="container onc">
+	<h1 class="text-center"> Germiscan is designed , Engineered and made in India </h1>
+	<a class="on-btn"> Order Now </a>
+	</div>
+
+
+</section>
+
+<section class=" testimonials pt-5">
+<h1 class="text-center wgh">Product Reviews</h1>
+	<div class="container pt-5">
+		<div class="wrapper">
+				<div class="slider">
+					<div class="items">
+						<div class="text">
+							<i class="fa fa-quote-right"> </i>
+							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
+								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
+								reprehenderit consequat Lorem incididunt ut.</p>
+						<div class="admin">
+							<h4> Name 1 </h4>
+						</div>
+							</div>
+					
+					</div>
+
+					<div class="items">
+						<div class="text">
+							<i class="fa fa-quote-right"> </i>
+							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
+								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
+								reprehenderit consequat Lorem incididunt ut.</p>
+
+							<div class="admin">
+							<h4> Name 2 </h4>
+							</div>
+						</div>
+				
+					</div>
+
+					<div class="items">
+						<div class="text">
+							<i class="fa fa-quote-right"> </i>
+							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
+								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
+								reprehenderit consequat Lorem incididunt ut.</p>
+								<div class="admin">
+									<h4> Name 3 </h4>
+								</div>
+							</div>
+					
+					</div>
+
+					<div class="items">
+						<div class="text">
+							<i class="fa fa-quote-right"> </i>
+							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
+								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
+								reprehenderit consequat Lorem incididunt ut.</p>
+					
+									<div class="admin">
+									<h4> Name 4 </h4>
+								</div>
+							</div>
+					
+					</div>
+				</div>
+			</div>
+	</div>
+	
+
+
+
+</section>
+
 
 
 

@@ -7,6 +7,10 @@ body {
 	color: #100739;
 }
 
+h1{
+	font-size: 1.9rem;
+}
+
 p{
 	color: black;
 }
@@ -295,5 +299,89 @@ outline: none !important;
 
 .card:hover {
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  }
+}
 
+.card-title{
+	font-weight: bolder;
+}
+
+
+/* section Order Now */
+
+.on{
+	background-color: #9D2EDE;
+	padding: 25px 25px;
+}
+
+.on h1{
+	color: #fff;
+	font-weight: bold;
+	padding-bottom: 20px ;
+}
+
+.on-btn{
+    text-align: center;
+    display:inline-block;
+    text-decoration: none !important;
+	margin:0 auto;
+	background-color: #fff;
+	color: black;
+	padding: 10px;
+	pointer-events: none;
+}
+
+.onc{
+	text-align: center;
+	width: 100%;
+}
+
+
+/* testimonial slider */
+
+
+
+.wrapper::after{
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 50%;
+	z-index: -1;
+}
+
+p{
+	font-size: 16px;
+	line-height: 26px;
+	margin: 0;
+}
+
+.fa-quote-right{
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.text{
+	background-color: #fff;
+	position: relative;
+	padding: 25px;
+	min-height: 170px;
+	position: relative;
+	box-shadow: 0 8px 15px rgba(0,0,0,0.24);
+}
+
+.text:after{
+	content: '\f0d7';
+	position: absolute;
+	font-family: fontawesome;
+	bottom: -21px;
+	font-size: 32px;
+	color: #fff;
+	left: 40px;
+	text-shadow: 0 8px 15px rgba(0,0,0,0.24);
+}
+
+.items{
+	width: 80%;
+}

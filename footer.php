@@ -3,7 +3,7 @@
     <div class="container am">
       <div class="row">
         <div class="col-lg-3 col-md-3 col-sm-12">
-              <h4> About Maverick</h4>
+              <h4> About Germiscan</h4>
               <p style="padding-right: 3rem;">Founded on the principles of innovation and making ideas happen</p>
         </div>
       
@@ -51,17 +51,20 @@
 <script src= "js/bootstrap.min.js"> </script>
 <script src= "js/slider-bg.js"> </script>
 <script src= "js/slick.js"> </script>
-<script>
-		$(document).ready(function(){
-			$('.ct-slick-homepage').slick({
-				autoplay: true,
-				autoplaySpeed: 3000,
-				dots: false,
-    			prevArrow: false,
-    			nextArrow: false
-			});
-		});
-	</script>
+<script src= "js/main.js"> </script>
+<script> 
+  
+  $(document).ready(function(){
+    $('.slider').slick({
+        infinite: true,
+        slidesToShow: 2,
+        slidesToScroll: 1,
+        prevArrow: false,
+        nextArrow: false
+    });
+});
+
+</script>
 </body>
 
 </html>

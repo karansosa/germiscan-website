@@ -63,18 +63,18 @@
 
 <div class="container app">
 	<div class="row">
-		<div class="col-lg-4 col-md-4 col-sm-12 appcard">
-			<div class="card" style="width: 18rem;">
+		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+			<div class="card app-card" style="width: 18rem;">
 				<img class="mt-4"  src="img/coronavirus.png " alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Mask , Gloves PPE kit</h5>
 						<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
 					</div>
 		    </div>
-		</div>
+		</div> 
 
-		<div class="col-lg-4 col-md-4 col-sm-12 appcard">
-			<div class="card" style="width: 18rem;">
+		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+			<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/milk.png" alt="Card image cap">
 						<div class="card-body">
 							<h5 class="card-title text-center"> Grocery Shoes</h5>
@@ -83,8 +83,8 @@
 			</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12 appcard">
-		<div class="card" style="width: 18rem;">
+		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/monitor.png" alt="Card image cap">
 						<div class="card-body">
 							<h5 class="card-title text-center">Computer , Mobile</h5>
@@ -92,11 +92,9 @@
 						</div>
 		</div>
 		</div>
-	</div>
 
-	<div class="row">
-		<div class="col-lg-4 col-md-4 col-sm-12 appcard">
-		<div class="card" style="width: 18rem;">
+		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/delivery.png" alt="Card image cap">
 						<div class="card-body">
 							<h5 class="card-title text-center">Home Delivered Packages</h5>
@@ -105,8 +103,8 @@
 			</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12 appcard">
-		<div class="card" style="width: 18rem;">
+		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/wallet.png" alt="Card image cap">
 						<div class="card-body text-center">
 							<h5 class="card-title">Wallet Currency notes</h5>
@@ -115,8 +113,8 @@
 			</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12 appcard">
-		<div class="card" style="width: 18rem;">
+		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/company.png" alt="Card image cap">
 						<div class="card-body">
 							<h5 class="card-title text-center">Working surfaces and offices</h5>
@@ -124,6 +122,10 @@
 						</div>
 			</div>
 		</div>
+	</div>
+
+	<div class="row">
+
 	</div>
 </div>
 
@@ -146,19 +148,19 @@
 					<div class="items">
 						<div class="text" style="width: 90%;">
 							<i class="fa fa-quote-right"> </i>
-							<p>Since it is a portable product,which can be charged like aphone, the user can carry 
+							<p class="rp">Since it is a portable product,which can be charged like aphone, the user can carry 
 								it to the market or workplace.It can be taken in flight as well</p>
-						<div class="admin">
-							<h4 class="pt-2"> Rajiv Lunkad </h4>
-						</div>
+							<div class="admin">
+								<h4 class="pt-2"> Rajiv Lunkad </h4>
 							</div>
+						</div>
 					
 					</div>
 
 					<div class="items" >
 						<div class="text" style="width: 90%;">
 							<i class="fa fa-quote-right"> </i>
-							<p> At Le Mill, we are Committed to our collective safety,as we adapt to COVID-19.For example, 
+							<p class="rp"> At Le Mill, we are Committed to our collective safety,as we adapt to COVID-19.For example, 
 								all our garments are now being steamed twice a day.We started using a Germiscan which uses 
 								UV-C technology to sterilise surfaces in less than 60 seconds. The Germiscan is used on all 
 								garments before our pieces are packed by our masked and gloved team and placed into sanitised 
@@ -184,10 +186,10 @@
 <div class="container">
 	<div class="row pt-5 cart">
 		<div class="col-lg-6 col-md-6 col-sm-12">
-			<div class="card" style="width: 18rem; height: 18rem">
-				<img class="card-img-top" src="..." alt="Card image cap">
+			<div class="card" style="width: 18rem; height: 26rem">
+				<img class="pimg"  src="img/germiscan-1.jpg" height="180px">
 					<div class="card-body">
-						<h5 class="card-title">Card title</h5>
+						<h5 class="card-title">Germiscan</h5>
 							<p class="card-text pb-2">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 								<div class="d-flex pt-3 ">
 									<a class="on-btn onw"> Order Now </a>
@@ -197,11 +199,11 @@
 			</div>	
 		</div>
 
-		<div class="col-lg-6 col-md-6 col-sm-12">
-			<div class="card" style="width: 18rem; height: 18rem">
-			<img class="card-img-top" src="..." alt="Card image cap">
+		<div class="col-lg-6 col-md-6 col-sm-12 onc">
+			<div class="card" style="width: 18rem; height: 26rem">
+			<img class="pimg"  src="img/germiscan-2.jpg" height="180px">
 					<div class="card-body">
-						<h5 class="card-title">Card title</h5>
+						<h5 class="card-title">Germi split</h5>
 							<p class="card-text pb-2">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 								<div class="d-flex pt-3 ">
 									<a class="on-btn onw"> Order Now </a>

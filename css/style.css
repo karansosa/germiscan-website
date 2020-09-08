@@ -283,7 +283,7 @@ outline: none !important;
 	padding-bottom: 80px;
 }
 
-.card img{
+.app-card img{
 	height: 60px;
 	display: block;
     margin-left: auto;
@@ -304,6 +304,7 @@ outline: none !important;
 .card-title{
 	font-weight: bolder;
 }
+
 
 
 /* section Order Now */
@@ -385,28 +386,23 @@ p{
 	background-color: #f0f0f0;
 }
 
-.bg-light {
-    /* background-color: #f8f9fa!important; */
-    background: transparent !important;
-}
-
-.darkHeader{
-	background-color: #f8f9fa!important;
-}
-
 
 /* Order Now */
 
-.cart
+/* .cart
 {
 	margin-left: 100px;
-}
+} */
 
 .onw{
 	background-color: #1A2024;
 	color: white;
 	padding: 7px 7px;
 	font-size: 12px;
+}
+
+.faq>.card>.pimg{
+	height: 180px;
 }
 
 
@@ -417,3 +413,21 @@ p{
 	padding: 0px 0px;
 	background: #9D2EDE;
 }
+
+
+/* Navbar */
+
+.bg-light {
+    /* background-color: #f8f9fa!important; */
+    background: transparent !important;
+}
+
+.darkHeader{
+	background-color: #fff!important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: black;
+}
+
+

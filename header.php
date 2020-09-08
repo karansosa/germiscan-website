@@ -5,10 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href = "css/bootstrap.min.css" rel="stylesheet">
 <link href = "css/style.css" rel="stylesheet">
+<link href = "css/responsive.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
-<link href="css/slick.css?1234">
-<link href="css/slick-theme.css">
+<link href="css/slick.css?1234" rel="stylesheet">
+<link href="css/slick-theme.css" rel="stylesheet">
 </head>
 
 <body>

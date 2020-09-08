@@ -1,0 +1,36 @@
+@media only screen and (max-width: 768px) {
+    
+    h1 {
+        font-size: 1.6rem;
+    }
+
+    .bg-light {
+        /* background-color: #f8f9fa!important; */
+        background: #fff;
+    }
+
+    .wg p {
+        padding: 30px 20px 50px 10px;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .card {
+        margin-left: 20px;
+    }
+
+    .rp{
+        font-size: 12px;
+    }
+    .testimonials{
+        padding-bottom: 20px;
+    }
+
+    .admin h4{
+        font-size: 16px;
+    }
+
+    .onc{
+        padding-top: 10px;
+    }
+  }

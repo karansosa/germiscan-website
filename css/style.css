@@ -291,17 +291,17 @@ outline: none !important;
 	padding-top: 10px;
 	margin-top: 10px;
 }
-.card{
+.applications .card{
 	height: 14rem;
 	box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2);
 	transition: 0.3s;
 }
 
-.card:hover {
+.applications .card:hover {
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-.card-title{
+.applications .card-body .card-title{
 	font-weight: bolder;
 }
 
@@ -389,10 +389,7 @@ p{
 
 /* Order Now */
 
-/* .cart
-{
-	margin-left: 100px;
-} */
+
 
 .onw{
 	background-color: #1A2024;
@@ -409,9 +406,17 @@ p{
 /* Frequently Asked Questions*/
 
 
-.accordion>.card>.card-header{
-	padding: 0px 0px;
-	background: #9D2EDE;
+.faq-btn{
+	color: black;
+	font-size: 20px;
+}
+
+.faq-btn:hover{
+	color: black;
+}
+
+.btn:hover, .btn:focus, .btn:active {
+    color: black;
 }
 
 

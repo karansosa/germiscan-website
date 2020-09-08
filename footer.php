@@ -57,10 +57,12 @@
   $(document).ready(function(){
     $('.slider').slick({
         infinite: true,
-        slidesToShow: 2,
+        slidesToShow: 1,
         slidesToScroll: 1,
         prevArrow: false,
-        nextArrow: false
+        nextArrow: false,
+        autoplay: true,
+        autoplaySpeed: 3000
     });
 });
 

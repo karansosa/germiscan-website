@@ -339,17 +339,6 @@ outline: none !important;
 /* testimonial slider */
 
 
-
-.wrapper::after{
-	content: '';
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	height: 50%;
-	z-index: -1;
-}
-
 p{
 	font-size: 16px;
 	line-height: 26px;
@@ -383,5 +372,48 @@ p{
 }
 
 .items{
-	width: 80%;
+	margin: 0 25px;
+}
+
+.testimonial-slider
+{
+	height: 400px;
+}
+
+.testimonials
+{
+	background-color: #f0f0f0;
+}
+
+.bg-light {
+    /* background-color: #f8f9fa!important; */
+    background: transparent !important;
+}
+
+.darkHeader{
+	background-color: #f8f9fa!important;
+}
+
+
+/* Order Now */
+
+.cart
+{
+	margin-left: 100px;
+}
+
+.onw{
+	background-color: #1A2024;
+	color: white;
+	padding: 7px 7px;
+	font-size: 12px;
+}
+
+
+/* Frequently Asked Questions*/
+
+
+.accordion>.card>.card-header{
+	padding: 0px 0px;
+	background: #9D2EDE;
 }

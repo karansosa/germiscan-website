@@ -140,68 +140,89 @@
 
 <section class=" testimonials pt-5">
 <h1 class="text-center wgh">Product Reviews</h1>
-	<div class="container pt-5">
+	<div class="container pt-5 testimonial-slider">
 		<div class="wrapper">
 				<div class="slider">
 					<div class="items">
-						<div class="text">
+						<div class="text" style="width: 90%;">
 							<i class="fa fa-quote-right"> </i>
-							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
-								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
-								reprehenderit consequat Lorem incididunt ut.</p>
+							<p>Since it is a portable product,which can be charged like aphone, the user can carry 
+								it to the market or workplace.It can be taken in flight as well</p>
 						<div class="admin">
-							<h4> Name 1 </h4>
+							<h4 class="pt-2"> Rajiv Lunkad </h4>
 						</div>
 							</div>
 					
 					</div>
 
-					<div class="items">
-						<div class="text">
+					<div class="items" >
+						<div class="text" style="width: 90%;">
 							<i class="fa fa-quote-right"> </i>
-							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
-								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
-								reprehenderit consequat Lorem incididunt ut.</p>
+							<p> At Le Mill, we are Committed to our collective safety,as we adapt to COVID-19.For example, 
+								all our garments are now being steamed twice a day.We started using a Germiscan which uses 
+								UV-C technology to sterilise surfaces in less than 60 seconds. The Germiscan is used on all 
+								garments before our pieces are packed by our masked and gloved team and placed into sanitised 
+								shopping boxes</p>
 
 							<div class="admin">
-							<h4> Name 2 </h4>
+							<h4 class="pt-2"> Cecilia Morelli  </h4>
 							</div>
 						</div>
 				
 					</div>
 
-					<div class="items">
-						<div class="text">
-							<i class="fa fa-quote-right"> </i>
-							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
-								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
-								reprehenderit consequat Lorem incididunt ut.</p>
-								<div class="admin">
-									<h4> Name 3 </h4>
-								</div>
-							</div>
-					
-					</div>
 
-					<div class="items">
-						<div class="text">
-							<i class="fa fa-quote-right"> </i>
-							<p> Adipisicing aute in amet ullamco irure. Nulla aliquip officia velit labore ut ad do irure dolore minim eu excepteur. 
-								Amet nisi laborum nisi sunt. Quis ipsum eiusmod proident sint sunt nisi velit occaecat occaecat velit nulla. Qui 
-								reprehenderit consequat Lorem incididunt ut.</p>
-					
-									<div class="admin">
-									<h4> Name 4 </h4>
-								</div>
-							</div>
-					
-					</div>
+			
 				</div>
 			</div>
 	</div>
-	
 
+</section>
 
+<section class="faq pb-3">
+<h1 class="text-center wgh">Order Now</h1>
+<div class="container">
+	<div class="row pt-5 cart">
+		<div class="col-lg-6 col-md-6 col-sm-12">
+			<div class="card" style="width: 18rem; height: 18rem">
+				<img class="card-img-top" src="..." alt="Card image cap">
+					<div class="card-body">
+						<h5 class="card-title">Card title</h5>
+							<p class="card-text pb-2">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+								<div class="d-flex pt-3 ">
+									<a class="on-btn onw"> Order Now </a>
+									<a class="on-btn onw"> Add to cart </a>
+								</div>
+					</div>
+			</div>	
+		</div>
+
+		<div class="col-lg-6 col-md-6 col-sm-12">
+			<div class="card" style="width: 18rem; height: 18rem">
+			<img class="card-img-top" src="..." alt="Card image cap">
+					<div class="card-body">
+						<h5 class="card-title">Card title</h5>
+							<p class="card-text pb-2">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+								<div class="d-flex pt-3 ">
+									<a class="on-btn onw"> Order Now </a>
+									<a class="on-btn onw"> Add to cart </a>
+								</div>
+					</div>
+			</div>	
+		</div>
+
+	</div>
+
+</div>
+
+</section>
+
+<section class="faq">
+
+<div class="container pt-5 pb-3">
+<h1 class="text-center wgh">Frequently Asked Questions</h1>
+
+</div>
 
 </section>
 

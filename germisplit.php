@@ -45,7 +45,7 @@
 							<span class="review-no">41 reviews</span>
 						</div>
 						<p class="product-description">Suspendisse quos? Tempus cras iure temporibus? Eu laudantium cubilia sem sem! Repudiandae et! Massa senectus enim minim sociosqu delectus posuere.</p>
-						<h4 class="price pt-5">current price: <span>$180</span></h4>
+						<h4 class="price pt-5">current price: <span>4200</span></h4>
 						<div class="action pt-5">
 							<button class="add-to-cart btn btn-default" type="button">add to cart</button>
 						</div>

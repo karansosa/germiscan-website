@@ -77,7 +77,7 @@
 			<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/milk.png" alt="Card image cap">
 						<div class="card-body">
-							<h5 class="card-title text-center"> Grocery Shoes</h5>
+							<h5 class="card-title text-center"> Grocery Shoes , Milk packets</h5>
 							<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
 						</div>
 			</div>

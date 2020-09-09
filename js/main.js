@@ -13,7 +13,7 @@ $(window).scroll(function() {
 });
 
 
-// Product Reviews
+// Homepage slider
 
 $(document).ready(function(){
     $('.ct-slick-homepage').slick({

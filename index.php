@@ -63,7 +63,7 @@
 
 <div class="container app">
 	<div class="row">
-		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
 			<div class="card app-card" style="width: 18rem;">
 				<img class="mt-4"  src="img/coronavirus.png " alt="Card image cap">
 					<div class="card-body">
@@ -73,7 +73,7 @@
 		    </div>
 		</div> 
 
-		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
 			<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/milk.png" alt="Card image cap">
 						<div class="card-body">
@@ -83,7 +83,7 @@
 			</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
 		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/monitor.png" alt="Card image cap">
 						<div class="card-body">
@@ -93,7 +93,7 @@
 		</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
 		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/delivery.png" alt="Card image cap">
 						<div class="card-body">
@@ -103,7 +103,7 @@
 			</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
 		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/wallet.png" alt="Card image cap">
 						<div class="card-body text-center">
@@ -113,7 +113,7 @@
 			</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12 app-card pt-4">
+		<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
 		<div class="card app-card" style="width: 18rem;">
 					<img class="mt-4" src="img/company.png" alt="Card image cap">
 						<div class="card-body">
@@ -225,8 +225,8 @@
 	<h1 class="text-center wgh">Frequently Asked Questions</h1>
 
 	<div class="accordion pt-5" id="accordionExample">
-  <div class="card">
-    <div class="card-header" id="headingOne">
+  <div class="card ">
+    <div class="card-header faq-card" id="headingOne">
       <h5 class="mb-0">
         <button class=" faq-btn btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           Collapsible Group Item #1
@@ -240,8 +240,8 @@
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="card-header" id="headingTwo">
+  <div class="card ">
+    <div class="card-header faq-header" id="headingTwo">
       <h5 class="mb-0">
         <button class=" faq-btn  btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
           Collapsible Group Item #2
@@ -255,7 +255,7 @@
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingThree">
+    <div class="card-header faq-header" id="headingThree">
       <h5 class="mb-0">
         <button class="faq-btn btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           Collapsible Group Item #3

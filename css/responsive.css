@@ -48,6 +48,41 @@
         height: 90px;
     }
 
+    .banner-txt h2{
+        font-size: 35px;
+        font-weight: 500;
+    }
+
+    .banner-txt p{
+        color: #fff;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
+    .blk h2{
+        color: black;
+    }
+    
+    .blk p{
+        color: black;
+    }
+    
+    .blk{
+        top: 30%;
+        left: 50%;
+    }
+
+    .banner-area , .single-banner{
+        height: 100vh;
+    }
+    .wg{
+        padding-top: 20px;
+    }
+    .app .row {
+        padding-bottom: 45px;
+    }
+
+ 
+
   }
 
 
@@ -79,4 +114,21 @@
 
 }
 
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px)
+  and (-webkit-min-device-pixel-ratio: 2) {
 
+    .banner-area , .single-banner{
+        /* height: 50vh; */
+    }
+}
+
+
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 667px) and (min-device-width: 375px)
+{
+    .applications .card {
+        margin-left: 35px;
+    }
+}

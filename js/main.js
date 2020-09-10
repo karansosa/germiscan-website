@@ -15,14 +15,18 @@
 
 // Homepage slider
 
+
+
+
+
 $(document).ready(function(){
-    $('.ct-slick-homepage').slick({
+    $('.banner-area').slick({
         autoplay: true,
         autoplaySpeed: 3000,
         dots: false,
         prevArrow: false,
-        nextArrow: false
+        nextArrow: false,
+        dots: false 
     });
 });
-
 

@@ -3,7 +3,7 @@
 <section class="pt">
 <div class="container">
 
-<h1 class="text-center pt-3">Product Detail / Germisplit</h1>
+<h1 class="text-center pt-3" style="font-weight: bold;">Product Detail / Germisplit</h1>
 <h4 class="text-center pt-1">Order Now</h4>
 
 </div>

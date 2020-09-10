@@ -3,7 +3,7 @@
     <div class="container am">
       <div class="row">
         <div class="col-lg-3 col-md-3 col-sm-12">
-              <h4> Whats app Us</h4>
+              <h4> Whatsapp Us</h4>
               <p class="pb-3" style="padding-right: 3rem;"><a href="https://wa.me/919004721607" target="_blank"><i style="font-size: 3rem;" class="fa fa-whatsapp"></i> </a></p>
         </div>
       
@@ -11,8 +11,7 @@
               <h4> Quick Links</h4>
                 <a href="">Home</a><br>
                 <a href="index.php">About</a><br>
-                <a href="product.php">Product</a><br>
-                <a href="footer.php">Contact</a><br>         
+                <a href="#">Product</a><br>         
         </div>
 
         <div class="col-lg-3 col-md-3 col-sm-12 ql pb-3">

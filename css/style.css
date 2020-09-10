@@ -16,6 +16,7 @@ p{
 }
 
 /* Slider */
+/* 
 .slick-slider
 {
 	position: relative;
@@ -191,7 +192,7 @@ outline: none !important;
 .slick-next .slick-arrow
 {
 	display: none;
-}
+} */
 
 /* Footer */
 #footer {
@@ -253,6 +254,9 @@ outline: none !important;
 
 /* section wg */
 
+.wg{
+	padding-top: 120px;
+}
 
 .wgh{
 	font-weight: bold;
@@ -282,11 +286,11 @@ outline: none !important;
 /* section application */
 
 .app{
-	padding-top: 60px;
+	padding-top: 20px;
 }
 
 .app .row{
-	padding-bottom: 80px;
+	padding-bottom: 60px;
 }
 
 .app-card img{
@@ -304,7 +308,7 @@ outline: none !important;
 }
 
 .applications .card:hover {
-	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 2px 6px 0 rgb(127 43 202 / 53%);
 }
 
 .applications .card-body .card-title{
@@ -692,3 +696,80 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 	font-weight: 500;
 }
 
+
+
+.banner-area , .single-banner{
+	height: 80vh;
+}
+
+.single-banner{
+	position: relative;
+}
+
+.single-banner .banner-img{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.banner-img img{
+	width: 100%;
+	height: 100vh;
+}
+
+.banner-txt{
+	position: absolute;
+	top: 60%;
+	left: 30%;
+	transform: translate(-50% , -50%);
+	text-align: center;
+}
+
+
+
+.banner-txt h2{
+	font-size: 85px;
+	text-transform: uppercase;
+	color: #fff;
+	margin: 0;
+	font-weight: 700;
+}
+
+.banner-txt p{
+	color: #fff;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+
+.banner-btn a{
+	text-decoration: none;
+	background: #fff;
+	color: black;
+	padding: 5px 5px;
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+.blk h2{
+	color: black;
+}
+
+.blk p{
+	color: black;
+}
+
+.blk{
+	top: 30%;
+	left: 50%;
+}
+
+.blk-btn{
+	text-decoration: none;
+	background: #9D2EDE;
+	color: white;
+	padding: 5px 5px;
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 15px;
+}

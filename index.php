@@ -1,52 +1,31 @@
 <?php include('header.php'); ?>
 
-<div class="ct-header ct-header--slider ct-slick-custom-dots" id="home">
-	<div class="ct-slick-homepage" data-arrows="true" data-autoplay="true">
+<div class="banner-area">
+ <div class="single-banner">
+    <div class="banner-img">
+        <img src="img/slider/slider1.png">
+    </div>
+    <div class="banner-txt">
+	<p> U Light Up we all survive </p>
+        <h2> GERMISCAN </h2>
+        <p> To the Rescue </p>
+        <p class="banner-btn"> <a href="#" > Order Now</a> </p> 
+    </div>
+ </div>
 
-		<div class="ct-header tablex item" data-background="img/slide1.jpg">
-			<div class="ct-u-display-tablex">
-				<div class="inner">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-8 col-lg-6 slider-inner">
-								<h1 class="big">Whether looking for a mobile application, or a website, we have you covered no matter the platform to be built on or device to be used with.</h1>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+ <div class="single-banner">
+    <div class="banner-img">
+        <img src="img/slider/slider-4.png">
+    </div>
+    <div class="banner-txt blk">
+	<p>UV-C LED light  </p>
+        <h2 class="blkh"> GERMISPLIT </h2>
+        <p> Environmental Air Disinfection system </p>
+        <p class="banner-btn "> <a href="#" > Order Now</a> </p> 
+    </div>
+ </div>
 
-		<div class="ct-header tablex item" data-background="img/slide2.jpg">
-			<div class="ct-u-display-tablex">
-				<div class="inner">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-8 col-lg-6 slider-inner">
-								<h1 class="big"><strong>IOT</strong> uses real-time data to help businesses reduce the consumption of resources to improve efficiency and productivity.</h1>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="ct-header tablex item" data-background="img/slide3.jpg">
-			<div class="ct-u-display-tablex">
-				<div class="inner">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-8 col-lg-6 slider-inner">
-								<h1 class="big">Technology can transform your business by providing faster, more convenient and more efficient way of performing business. Let us show you how.</h1>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-	</div><!-- .ct-slick-homepage -->
-</div><!-- .ct-header --> 
+</div>
 
 
 <section class="wg" id="about" data-aos="fade-up" > 
@@ -134,7 +113,8 @@
 <section class="on pt-5 pb-5" data-aos="fade-up" >
 	<div class="container onc">
 	<h1 class="text-center "> Germiscan is designed , Engineered and made in India </h1>
-	<a class="on-btn"> Order Now </a>
+	<p class="banner-btn"> <a href="germiscan.php" > Order Now</a> </p>
+	
 	</div>
 
 
@@ -146,8 +126,10 @@
 		<div class="col-lg-6 col-md-6 col-sm-12">
 			<div class="container">
 				<h1 class="text-center wgh">How it works</h1>
-				<p class="pt-5">This specially designed Anti UV spill handheld device creates a focused beam to achieve 99.9% sterilization in less than 6 seconds. It has a additional safety feature of a tilt sensor, which turns off the UVC light, 
-					if it is tilted more than 30 degrees. Safety feature of hand held. Safety switch to avoid direct radiation.</p>
+				<p class="pt-5">Germiscan is a UV-C led based handheld sterilizer, To sanitize anything First sanitize your hands & put the switch on, 
+					keep once inch distance between the light and the items and scan it, flip the items to scan on the other sides and the corners as well.  
+					99.9% sterilization in less than 6 seconds. It has an additional safety feature of a tilt sensor, which turns off the UVC light if it is 
+					tilted more than 30 degrees.  Safety switch to avoid direct radiation.</p>
 			</div>
 
 		</div>
@@ -166,7 +148,7 @@
 	<div class="container pt-5 testimonial-slider">
 		<div class="wrapper">
 				<div class="slider">
-					<div class="items">
+					<!-- <div class="items">
 						<div class="text" style="width: 90%;">
 							<i class="fa fa-quote-right"> </i>
 							<p class="rp">Since it is a portable product,which can be charged like aphone, the user can carry 
@@ -176,7 +158,7 @@
 							</div>
 						</div>
 					
-					</div>
+					</div> -->
 
 					<div class="items" >
 						<div class="text" style="width: 90%;">

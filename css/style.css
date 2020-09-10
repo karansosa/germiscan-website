@@ -679,3 +679,16 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 .btn-default { background-color: #9D2EDE; color: #fff; }
 .btn-default:hover { background-color: #9D2EDE; color: #fff; }
 .btn-default.focus, .btn-default:focus { background-color: #9D2EDE; color: #fff; border: 1px solid #063bb3; }
+
+
+
+
+/* How it works */
+
+.hiw p{
+	font-size: 18px;
+	letter-spacing: 1px;
+	text-align: justify;
+	font-weight: 500;
+}
+

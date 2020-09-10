@@ -50,6 +50,13 @@
 <script src= "js/slider-bg.js"> </script>
 <script src= "js/slick.js"> </script>
 <script src= "js/main.js"> </script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      offset: 300,
+      duration: 800
+    });
+  </script>
 <script> 
   
   $(document).ready(function(){

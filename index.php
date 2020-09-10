@@ -49,7 +49,7 @@
 </div><!-- .ct-header --> 
 
 
-<section class="wg" id="about">
+<section class="wg" id="about" data-aos="fade-up" > 
 
 <h1 class="text-center wgh">Why Germiscan</h1>
 <p> Germiscan, a UV-C LED-based hand held sterilizer introduced by OPTOL who are pioneers in LED Lighting technology in India, 
@@ -58,7 +58,7 @@
 
 </section>
 
-<section class="applications">
+<section class="applications" data-aos="fade-up" >
 <h1 class="text-center wgh">Applications</h1>
 
 <div class="container app">
@@ -131,16 +131,37 @@
 
 </section>
 
-<section class="on pt-5 pb-5">
+<section class="on pt-5 pb-5" data-aos="fade-up" >
 	<div class="container onc">
-	<h1 class="text-center"> Germiscan is designed , Engineered and made in India </h1>
+	<h1 class="text-center "> Germiscan is designed , Engineered and made in India </h1>
 	<a class="on-btn"> Order Now </a>
 	</div>
 
 
 </section>
 
-<section class=" testimonials pt-5">
+<section class="pt-5 pb-4 hiw" data-aos="fade-up" >
+	<div class="container-fluid pt-4 pb-4">
+		<div class="row">
+		<div class="col-lg-6 col-md-6 col-sm-12">
+			<div class="container">
+				<h1 class="text-center wgh">How it works</h1>
+				<p class="pt-5">This specially designed Anti UV spill handheld device creates a focused beam to achieve 99.9% sterilization in less than 6 seconds. It has a additional safety feature of a tilt sensor, which turns off the UVC light, 
+					if it is tilted more than 30 degrees. Safety feature of hand held. Safety switch to avoid direct radiation.</p>
+			</div>
+
+		</div>
+
+		<div class="col-lg-6 col-md-6 col-sm-12">
+		<iframe width="500" height="500" src="img/how-it-works.mp4" frameborder="0" 
+			allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+		</div>
+		</div>
+	
+	</div>
+</section>
+
+<section class=" testimonials pt-5" data-aos="fade-up" >
 <h1 class="text-center wgh">Product Reviews</h1>
 	<div class="container pt-5 testimonial-slider">
 		<div class="wrapper">
@@ -181,45 +202,9 @@
 
 </section>
 
-<!-- <section class="faq pb-3">
-<h1 class="text-center wgh">Order Now</h1>
-<div class="container">
-	<div class="row pt-5 cart">
-		<div class="col-lg-6 col-md-6 col-sm-12">
-			<div class="card" style="width: 18rem; height: 26rem">
-				<img class="pimg"  src="img/germiscan-1.jpg" height="180px">
-					<div class="card-body">
-						<h5 class="card-title">Germiscan</h5>
-							<p class="card-text pb-2">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-								<div class="d-flex pt-3 ">
-									<a class="on-btn onw"> Order Now </a>
-									<a class="on-btn onw"> Add to cart </a>
-								</div>
-					</div>
-			</div>	
-		</div>
 
-		<div class="col-lg-6 col-md-6 col-sm-12 onc">
-			<div class="card" style="width: 18rem; height: 26rem">
-			<img class="pimg"  src="img/germiscan-2.jpg" height="180px">
-					<div class="card-body">
-						<h5 class="card-title">Germi split</h5>
-							<p class="card-text pb-2">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-								<div class="d-flex pt-3 ">
-									<a class="on-btn onw"> Order Now </a>
-									<a class="on-btn onw"> Add to cart </a>
-								</div>
-					</div>
-			</div>	
-		</div>
 
-	</div>
-
-</div>
-
-</section> -->
-
-<section class="faq">
+<section class="faq"  data-aos="fade-up" >
 
 <div class="container pt-2 pb-5">
 	<h1 class="text-center wgh">Frequently Asked Questions</h1>

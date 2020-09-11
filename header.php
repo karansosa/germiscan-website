@@ -40,7 +40,7 @@
           <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item pr-5">
-          <a class="nav-link" href="#how-it-works">How It Works</a>
+          <a class="nav-link" href="index.php#how-it-works">How It Works</a>
         </li>
 
         <li class="nav-item dropdown">
@@ -49,7 +49,7 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <a class="dropdown-item" href="germiscan.php">Germiscan</a>
-            <a class="dropdown-item" href="germisplit.php">Germi Split</a>
+            <a class="dropdown-item" href="germisplit.php">Germisplit</a>
           </div>
         </li>
 

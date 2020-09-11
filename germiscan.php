@@ -259,6 +259,8 @@
 					<p class="product-description">Suspendisse quos? Tempus cras iure temporibus? Eu laudantium cubilia sem sem! Repudiandae et! Massa senectus enim minim sociosqu delectus posuere.</p>
 					<h4 class="price pt-5">current price: <span>6500</span></h4>
 					<div class="action pt-5">
+						<a href="https://www.instamojo.com/@germiscan/lc9a8eff245854596b684b17b2e00e786/" rel="im-checkout" data-text="Pay with Instamojo" data-css-style="color:#ffffff; background:#75c26a; width:300px; border-radius:4px" data-layout="vertical"></a>
+						<script src="https://js.instamojo.com/v1/button.js"></script>
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="2N5N7Z3DYYUD4">

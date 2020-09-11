@@ -3,31 +3,31 @@
 <div class="banner-area">
  <div class="single-banner">
     <div class="banner-img">
-        <img src="img/slider/slider1.png">
+        <img src="img/slider/slider-7.png">
     </div>
     <div class="banner-txt">
 	<p> U Light Up we all survive </p>
         <h2> GERMISCAN </h2>
         <p> To the Rescue </p>
-        <p class="banner-btn"> <a href="#" > Order Now</a> </p> 
+        <p class="banner-btn"> <a href="germiscan.php" > Order Now</a> </p> 
     </div>
  </div>
 
  <div class="single-banner">
     <div class="banner-img">
-        <img src="img/slider/slider-4.png">
+        <img src="img/slider/slider-8.png">
     </div>
     <div class="banner-txt blk">
 		<p>UV-C LED light  </p>
         <h2 class="blkh"> GERMISPLIT </h2>
         <p> Environmental Air Disinfection system </p>
-        <p class="banner-btn "> <a href="#" > Order Now</a> </p> 
+        <p class="banner-btn "> <a href="germisplit.php" > Order Now</a> </p> 
     </div>
  </div>
 
 </div>
 
-<section class=" pb-5 " data-aos="fade-up" >
+<section class=" pb-5 " data-aos="fade-up" id="products">
 	<div class="container">
 
 		<h1 class="text-center wgh">Our Products</h1>
@@ -37,14 +37,11 @@
 			<div class="img-wrap"><img src="img/gs-1.png" width="500"></div>
 			<figcaption class="info-wrap">
 					<h4 class="title">Germisplit</h4>
-					<p class="desc">Some small description goes here</p>
-					<!-- <div class="rating-wrap">
-						<div class="label-rating">132 reviews</div>
-						<div class="label-rating">154 orders </div>
-					</div>  -->
+					<p class="desc">UV-C LED LIGHT environmental air disinfection system</p>
+		
 			</figcaption>
 			<div class="bottom-wrap">
-				<a href="" class="btn btn-sm btn-primary float-right product-btn">Product Detail</a>	
+				<a href="germisplit.php" class="btn btn-sm btn-primary float-right product-btn">Product Detail</a>	
 				<div class="price-wrap h5">
 					<span class="price-new">4250 Rs</span> 
 				</div> 
@@ -57,11 +54,11 @@
 			<div class="img-wrap"><img src="img/gp-3.jpg" width="200"></div>
 			<figcaption class="info-wrap">
 					<h4 class="title">Germiscan </h4>
-					<p class="desc">Some small description goes here</p>
+					<p class="desc">Germiscan, a UV-C LED-based hand held sterilizer introduced by OPTOL</p>
 					
 			</figcaption>
 			<div class="bottom-wrap">
-				<a href="" class="btn btn-sm btn-primary float-right product-btn">Product Detail</a>	
+				<a href="germiscan.php" class="btn btn-sm btn-primary float-right product-btn">Product Detail</a>	
 				<div class="price-wrap h5">
 					<span class="price-new">6500 Rs</span> 
 				</div> 
@@ -71,17 +68,10 @@
 
 
 		</div>
-
-	
-
-		
-
-	
-
 	</div>
 </section>
 
-<section class="pt-5 pb-4 hiw" data-aos="fade-up" >
+<section class="pt-5 pb-4 hiw" data-aos="fade-up" id="how-it-works" >
 	<div class="container pt-4 pb-4">
 		<div class="row">
 		<div class="col-lg-6 col-md-6 col-sm-12">
@@ -167,8 +157,6 @@
 				
 					</div>
 
-
-			
 				</div>
 			</div>
 	</div>

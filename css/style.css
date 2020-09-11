@@ -586,8 +586,8 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 }
 
 .blk{
-	top: 30%;
-	left: 50%;
+	top: 60%;
+	left: 30%;
 }
 
 .blk-btn{

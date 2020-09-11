@@ -67,12 +67,17 @@
     }
     
     .blk{
-        top: 30%;
+        top: 70%;
         left: 50%;
     }
 
     .banner-area , .single-banner{
-        height: 100vh;
+        height: 70vh;
+    }
+
+    .banner-img img{
+        width: 100%;
+        height: 70vh;
     }
     .wg{
         padding-top: 20px;

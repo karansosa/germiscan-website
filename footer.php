@@ -9,9 +9,9 @@
       
         <div class="col-lg-3 col-md-3 col-sm-12 ql pb-3">
               <h4> Quick Links</h4>
-                <a href="">Home</a><br>
-                <a href="index.php">About</a><br>
-                <a href="#">Product</a><br>         
+                <a href="index.php">Home</a><br>
+                <a href="#how-it-works">How It Works</a><br>
+                <a href="#products">Product</a><br>         
         </div>
 
         <div class="col-lg-3 col-md-3 col-sm-12 ql pb-3">

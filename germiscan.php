@@ -26,7 +26,7 @@
 	<div class="container app">
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/coronavirus.png " alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Mask , Gloves PPE kit</h5>
@@ -36,7 +36,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/milk.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center"> Grocery Shoes , Milk packets</h5>
@@ -46,7 +46,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/monitor.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Computer , Mobile</h5>
@@ -56,7 +56,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/delivery.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Home Delivered Packages</h5>
@@ -66,7 +66,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/wallet.png" alt="Card image cap">
 					<div class="card-body text-center">
 						<h5 class="card-title">Wallet Currency notes</h5>
@@ -76,7 +76,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/company.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Working surfaces and offices</h5>

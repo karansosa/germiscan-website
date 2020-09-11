@@ -26,7 +26,7 @@
 	<div class="container app">
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/ac.png " alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Fits most brands mini splits & similar A/C systems</h5>
@@ -36,7 +36,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/sterilization.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">99.9 % Sterilization Efficacy</h5>
@@ -45,7 +45,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/led.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">LED technology – long life , no bulb replacement</h5>
@@ -54,7 +54,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/label.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">2 years product warranty</h5>
@@ -78,7 +78,7 @@
 	<div class="container app">
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/cs.png " alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Inhibits mold growth inside HVAC system</h5>
@@ -88,7 +88,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/air.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Keeps air system components clean</h5>
@@ -97,7 +97,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/repair.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Saves energy/reduces maintenance costs</h5>
@@ -106,7 +106,7 @@
 			</div>
 
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
-				<div class="card app-card" style="width: 18rem;">
+				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/delivery.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Reduces airborne microbial contaminants</h5>

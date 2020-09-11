@@ -49,14 +49,21 @@
     }
 
     .banner-txt h2{
-        font-size: 35px;
+        font-size: 25px;
         font-weight: 500;
     }
 
     .banner-txt p{
         color: #fff;
-        padding-bottom: 10px;
+        padding-bottom: 5px;
         font-size: 14px;
+    }
+    .banner-btn a{
+        color: black;
+        padding: 3px 3px;
+        display: inline-block;
+        text-transform: uppercase;
+        font-size: 10px;
     }
     .blk h2{
         color: black;
@@ -72,12 +79,12 @@
     }
 
     .banner-area , .single-banner{
-        height: 70vh;
+        height: 45vh;
     }
 
     .banner-img img{
         width: 100%;
-        height: 70vh;
+        height: 45vh;
     }
     .wg{
         padding-top: 20px;
@@ -93,48 +100,20 @@
 
 
 
-/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
-
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) { 
-
-    /* .applications .card {
-        margin-left: 20px;
-    } */
-}
-
-/* ----------- iPhone 6+, 7+ and 8+ ----------- */
-
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
-
-    /* .applications .card {
-        margin-left: 40px;
-    } */
-
-}
-
 @media only screen 
   and (min-device-width: 1024px) 
   and (max-device-width: 1366px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
     .banner-area , .single-banner{
-        /* height: 50vh; */
+        height: 45vh;
+    }
+
+    .banner-img img{
+        width: 100%;
+        height: 45vh;
     }
 }
 
 
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 667px) and (min-device-width: 375px)
-{
-    /* .applications .card {
-        margin-left: 35px;
-    } */
-}

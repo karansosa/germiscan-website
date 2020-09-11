@@ -15,7 +15,7 @@
 
  <div class="single-banner">
     <div class="banner-img">
-        <img src="img/slider/slider-8.png">
+        <img src="img/slider/slider-5.png">
     </div>
     <div class="banner-txt blk">
 		<p>UV-C LED light  </p>

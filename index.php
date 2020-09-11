@@ -6,7 +6,7 @@
         <img src="img/slider/slider-7.png">
     </div>
     <div class="banner-txt">
-	<p> U Light Up we all survive </p>
+		<p> U Light Up we all survive </p>
         <h2> GERMISCAN </h2>
         <p> To the Rescue </p>
         <p class="banner-btn"> <a href="germiscan.php" > Order Now</a> </p> 
@@ -27,7 +27,7 @@
 
 </div>
 
-<section class=" pb-5 " data-aos="fade-up" id="products">
+<section class=" pb-5 "  id="products">
 	<div class="container">
 
 		<h1 class="text-center wgh">Our Products</h1>
@@ -53,7 +53,7 @@
 			<figure class="card card-product">
 			<div class="img-wrap"><img src="img/gp-3.jpg" width="200"></div>
 			<figcaption class="info-wrap">
-					<h4 class="title">Germiscan </h4>
+					<h4 class="title">Germiscan</h4>
 					<p class="desc">Germiscan, a UV-C LED-based hand held sterilizer introduced by OPTOL</p>
 					
 			</figcaption>
@@ -109,7 +109,7 @@
 	<div class="container pt-4 pb-4">
 		<div class="row">
 		<div class="col-lg-6 col-md-6 col-sm-12">
-		<iframe width="500" height="500" src="img/germisplit.mp4" frameborder="0" 
+		<iframe width="500" height="500" src="img/gsv-2.mp4" frameborder="0" 
 			allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 		</div>
 
@@ -128,7 +128,11 @@
 <section class="on pt-5 pb-5" data-aos="fade-up" >
 	<div class="container onc">
 	<h1 class="text-center "> Germiscan is designed , Engineered and made in India </h1>
-	<p class="banner-btn"> <a href="germiscan.php" > Order Now</a> </p>
+	<div class="two-btn">
+	<p class="banner-btn"> <a href="germiscan.php" > Order Germiscan Now</a> </p> 
+	<p class="banner-btn"> <a href="germisplit.php" > Order Germisplit Now</a> </p>
+	</div>
+
 	
 	</div>
 

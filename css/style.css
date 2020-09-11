@@ -661,3 +661,8 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 {
 	box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2);
 }
+
+.two-btn{
+	display: flex;
+	justify-content: space-around
+}

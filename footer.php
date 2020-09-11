@@ -30,7 +30,7 @@
                 <div id="social-section">
                   <div class="container">
                     <div class="social">
-                    <a href="https://www.facebook.com/Germiscan" target="_blank"><i class="fa fa-facebook"></i></a> 
+                    <a href="https://www.facebook.com/germiscan.disinfection.7" target="_blank"><i class="fa fa-facebook"></i></a> 
                     <a href="https://www.instagram.com/germiscan/" target="_blank"><i class="fa fa-instagram"></i> </a>
                     <a href="https://www.linkedin.com/company/germiscan" target="_blank"><i class="fa fa-linkedin"></i> </a>
                     </div>

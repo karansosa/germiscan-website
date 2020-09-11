@@ -25,6 +25,7 @@
 
 	<div class="container app">
 		<div class="row">
+			
 			<div class="col-lg-4 col-md-6 col-sm-12 app-card pt-4">
 				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/ac.png " alt="Card image cap">
@@ -62,8 +63,7 @@
 				</div>
 			</div>
 
-
-		</div>
+			</div>
 
 		<div class="row">
 

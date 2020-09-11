@@ -30,7 +30,7 @@
 					<img class="mt-4" src="img/coronavirus.png " alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Mask , Gloves PPE kit</h5>
-						<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
+						<p class="card-text text-center">99.9% sterilization in less than 6 seconds.</p>
 					</div>
 				</div>
 			</div>
@@ -40,7 +40,7 @@
 					<img class="mt-4" src="img/milk.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center"> Grocery Shoes , Milk packets</h5>
-						<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
+						<p class="card-text text-center">99.9% sterilization in less than 6 seconds.</p>
 					</div>
 				</div>
 			</div>
@@ -50,7 +50,7 @@
 					<img class="mt-4" src="img/monitor.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Computer , Mobile</h5>
-						<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
+						<p class="card-text text-center">99.9% sterilization in less than 6 seconds.</p>
 					</div>
 				</div>
 			</div>
@@ -60,7 +60,7 @@
 					<img class="mt-4" src="img/delivery.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Home Delivered Packages</h5>
-						<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
+						<p class="card-text text-center">99.9% sterilization in less than 6 seconds.</p>
 					</div>
 				</div>
 			</div>
@@ -70,7 +70,7 @@
 					<img class="mt-4" src="img/wallet.png" alt="Card image cap">
 					<div class="card-body text-center">
 						<h5 class="card-title">Wallet Currency notes</h5>
-						<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
+						<p class="card-text text-center">99.9% sterilization in less than 6 seconds.</p>
 					</div>
 				</div>
 			</div>
@@ -80,15 +80,15 @@
 					<img class="mt-4" src="img/company.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title text-center">Working surfaces and offices</h5>
-						<p class="card-text">99.9% sterilization in less than 6 seconds.</p>
+						<p class="card-text text-center">99.9% sterilization in less than 6 seconds.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div class="row">
+		<!-- <div class="row">
 
-		</div>
+		</div> -->
 	</div>
 
 </section>
@@ -230,17 +230,23 @@
 
 					<div class="preview-pic tab-content">
 						<div class="tab-pane active" id="pic-1"><img src="img/gp-3.jpg" height="550" width="250" /></div>
-						<div class="tab-pane" id="pic-2"><img src="img/gp-1.jpg" height="550" width="250" /></div>
-						<div class="tab-pane" id="pic-3"><img src="img/gp-4.jpg" height="550" width="250" /></div>
-						<div class="tab-pane" id="pic-4"><img src="http://placekitten.com/400/252" /></div>
-						<div class="tab-pane" id="pic-5"><img src="http://placekitten.com/400/252" /></div>
+						<div class="tab-pane" id="pic-2"><img src="img/gp-1.1.jpg" height="550" width="250" /></div>
+						<!-- <div class="tab-pane" id="pic-3"><img src="img/gp-4.jpg" height="550" width="250" /></div> -->
+						<div class="tab-pane" id="pic-4"><img src="img/gp-2.1.jpg" height="550" width="250" /></div>
+						<div class="tab-pane" id="pic-5"><img src="img/gp-5.5.jpg"  height="500" width="250" /></div>
+						<div class="tab-pane" id="pic-6"><img src="img/gp-4.jpg"  height="550" width="250"/></div>
+						<div class="tab-pane" id="pic-7"><img src="img/gp-6.jpg" height="550" width="250" /></div>
+						<div class="tab-pane" id="pic-8"><img src="img/gp-7.jpg" height="550" width="250" /></div>
 					</div>
 					<ul class="preview-thumbnail nav nav-tabs">
 						<li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="img/gp-3.jpg" height="80" width="80" /></a></li>
-						<li><a data-target="#pic-2" data-toggle="tab"><img src="img/gp-1.jpg" height="80" width="80" /></a></li>
-						<li><a data-target="#pic-3" data-toggle="tab"><img src="img/gp-4.jpg" height="80" width="80" /></a></li>
-						<!-- <li><a data-target="#pic-4" data-toggle="tab"><img src="http://placekitten.com/200/126" /></a></li>
-						  <li><a data-target="#pic-5" data-toggle="tab"><img src="http://placekitten.com/200/126" /></a></li> -->
+						<li><a data-target="#pic-2" data-toggle="tab"><img src="img/gp-1.1.jpg" height="80" width="80" /></a></li>
+						<!-- <li><a data-target="#pic-3" data-toggle="tab"><img src="img/gp-4.jpg" height="80" width="80" /></a></li> -->
+						<li><a data-target="#pic-4" data-toggle="tab"><img src="img/gp-2.1.jpg" height="80" width="80" /></a></li>
+						  <li><a data-target="#pic-5" data-toggle="tab"><img src="img/gp-5.1.jpg" height="80" width="80" /></a></li>
+						  <li><a data-target="#pic-6" data-toggle="tab"><img src="img/gp-4.jpg" height="80" width="80" /></a></li>
+						  <li><a data-target="#pic-7" data-toggle="tab"><img src="img/gp-6.jpg" height="80" width="80" /></a></li>
+						  <li><a data-target="#pic-8" data-toggle="tab"><img src="img/gp-7.jpg" height="80" width="80" /></a></li>
 					</ul>
 
 				</div>

@@ -16,9 +16,9 @@
         font-size: 16px;
     }
 
-    .applications .card {
+    /* .applications .card {
         margin-left: 20px;
-    }
+    } */
 
     .rp{
         font-size: 12px;
@@ -85,8 +85,9 @@
     .app .row {
         padding-bottom: 45px;
     }
-
- 
+    .two-btn .banner-btn{
+       padding: 3px;
+    }
 
   }
 
@@ -100,9 +101,9 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
 
-    .applications .card {
+    /* .applications .card {
         margin-left: 20px;
-    }
+    } */
 }
 
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
@@ -113,9 +114,9 @@
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
-    .applications .card {
+    /* .applications .card {
         margin-left: 40px;
-    }
+    } */
 
 }
 
@@ -133,7 +134,7 @@
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 667px) and (min-device-width: 375px)
 {
-    .applications .card {
+    /* .applications .card {
         margin-left: 35px;
-    }
+    } */
 }

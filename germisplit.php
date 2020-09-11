@@ -152,10 +152,18 @@
 						</div>
 					</div>
 					<p class="product-description">Germiscan, a UV-C LED-based hand held sterilizer introduced by OPTOL who are pioneers in LED Lighting technology in India,
-		is an innovative solution to all disinfection problems . UV-C light penetrates the shell of the virus,
-		reaches its RNA and changes its structure, rendering it incapable of infecting surfaces and people.</p>
+						is an innovative solution to all disinfection problems . UV-C light penetrates the shell of the virus,
+						reaches its RNA and changes its structure, rendering it incapable of infecting surfaces and people.</p>
 					<h4 class="price pt-5">current price: <span>4250</span></h4>
 					<div class="action pt-5">
+						<a href="https://www.instamojo.com/@germiscan/lec6a042d8e7642c98e42a3ce2a0818bd/" rel="im-checkout" data-text="Pay with Instamojo" data-css-style="color:#ffffff; background:#75c26a; width:300px; border-radius:4px" data-layout="vertical"></a>
+						<script src="https://js.instamojo.com/v1/button.js"></script>
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="hosted_button_id" value="Q5LG72KDRCXE8">
+							<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+						</form>
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="VQ7GZSFZZZJZ2">

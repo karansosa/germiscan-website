@@ -15,7 +15,7 @@
 
  <div class="single-banner">
     <div class="banner-img">
-        <img src="img/slider/slider-5.png">
+        <img src="img/slider/slider-8.png">
     </div>
     <div class="banner-txt blk">
 		<p>UV-C LED light  </p>
@@ -76,16 +76,6 @@
 		<div class="row">
 		<div class="col-lg-6 col-md-6 col-sm-12">
 		
-				<h1 class="text-center wgh">How Germiscan works</h1>
-				<p class="pt-5">Germiscan is a UV-C led based handheld sterilizer, To sanitize anything First sanitize your hands & put the switch on, 
-					keep once inch distance between the light and the items and scan it, flip the items to scan on the other sides and the corners as well.  
-					99.9% sterilization in less than 6 seconds. It has an additional safety feature of a tilt sensor, which turns off the UVC light if it is 
-					tilted more than 30 degrees.  Safety switch to avoid direct radiation.</p>
-			
-
-		</div>
-
-		<div class="col-lg-6 col-md-6 col-sm-12">
 		<h1 class="text-center wgh">How Germisplit works</h1>
 		<p class="pt-5">GERMI SPLIT is a germicidal UV-C LED light system designed
 				specifically for mini-split and other ductless air-conditioning units
@@ -95,7 +85,19 @@
 				bacteria that grow inside the A/C unit as well as helps reduce the
 				airborne contaminants such as germs, viruses and allergens
 				passing through the system thereby providing continuous
-				sterilization and protection when the system is in operation.</p>		
+				sterilization and protection when the system is in operation.</p>
+
+		</div>
+
+		<div class="col-lg-6 col-md-6 col-sm-12">
+		
+
+				
+				<h1 class="text-center wgh">How Germiscan works</h1>
+				<p class="pt-5">Germiscan is a UV-C led based handheld sterilizer, To sanitize anything First sanitize your hands & put the switch on, 
+					keep once inch distance between the light and the items and scan it, flip the items to scan on the other sides and the corners as well.  
+					99.9% sterilization in less than 6 seconds. It has an additional safety feature of a tilt sensor, which turns off the UVC light if it is 
+					tilted more than 30 degrees.  Safety switch to avoid direct radiation.</p>
 		</div>
 
 	
@@ -109,13 +111,23 @@
 	<div class="container pt-4 pb-4">
 		<div class="row">
 		<div class="col-lg-6 col-md-6 col-sm-12">
-		<iframe width="500" height="500" src="img/gsv-2.mp4" frameborder="0" 
-			allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+		<!-- <iframe width="500" height="500" src="img/gsv-2.mp4" frameborder="0" 
+			allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+
+			<video width="500" height="500" controls>
+				<source src="img/gsv-2.mp4" type="video/mp4">
+			</video>
+
+			
 		</div>
 
 		<div class="col-lg-6 col-md-6 col-sm-12">
-		<iframe width="500" height="500" src="img/how-it-works.mp4" frameborder="0" 
-			allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+		<!-- <iframe width="500" height="500" src="img/how-it-works.mp4" frameborder="0" 
+			allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+			
+			<video width="500" height="500" controls>
+				<source src="img/how-it-works.mp4" type="video/mp4">
+			</video>
 		</div>
 
 
@@ -129,8 +141,8 @@
 	<div class="container onc">
 	<h1 class="text-center "> Germiscan is designed , Engineered and made in India </h1>
 	<div class="two-btn">
-	<p class="banner-btn"> <a href="germiscan.php" > Order Germiscan Now</a> </p> 
-	<p class="banner-btn"> <a href="germisplit.php" > Order Germisplit Now</a> </p>
+	<p class="banner-btn"> <a href="germisplit.php" > Order Germisplit Now</a> </p> 
+	<p class="banner-btn"> <a href="germiscan.php" > Order Germiscan Now</a> </p>
 	</div>
 
 	

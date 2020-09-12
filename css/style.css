@@ -545,7 +545,7 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 
 .banner-txt{
 	position: absolute;
-	top: 60%;
+	top: 50%;
 	left: 30%;
 	transform: translate(-50% , -50%);
 	text-align: center;
@@ -586,8 +586,8 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 }
 
 .blk{
-	top: 60%;
-	left: 30%;
+	top: 50%;
+	left: 80%;
 }
 
 .blk-btn{
@@ -629,7 +629,7 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
     border-radius: 3px 3px 0 0;
     overflow: hidden;
     position: relative;
-    height: 220px;
+    height: 400px;
     text-align: center;
 }
 .card-product .img-wrap img {
@@ -666,3 +666,4 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 	display: flex;
 	justify-content: space-around
 }
+

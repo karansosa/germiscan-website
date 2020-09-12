@@ -49,21 +49,21 @@
     }
 
     .banner-txt h2{
-        font-size: 25px;
+        font-size: 20px;
         font-weight: 500;
     }
 
     .banner-txt p{
         color: #fff;
         padding-bottom: 5px;
-        font-size: 14px;
+        font-size: 11px;
     }
     .banner-btn a{
         color: black;
-        padding: 3px 3px;
+        padding: 2px 2px;
         display: inline-block;
         text-transform: uppercase;
-        font-size: 10px;
+        font-size: 8px;
     }
     .blk h2{
         color: black;
@@ -74,8 +74,8 @@
     }
     
     .blk{
-        top: 70%;
-        left: 50%;
+        top: 60%;
+        left: 78%;
     }
 
     .banner-area , .single-banner{
@@ -94,6 +94,9 @@
     }
     .two-btn .banner-btn{
        padding: 3px;
+    }
+    video{
+        width: 100%;
     }
 
   }

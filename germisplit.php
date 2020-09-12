@@ -13,9 +13,15 @@
 <section class="wg" id="about" data-aos="fade-up">
 
 	<h1 class="text-center wgh">Why Germisplit</h1>
-	<p> Germiscan, a UV-C LED-based hand held sterilizer introduced by OPTOL who are pioneers in LED Lighting technology in India,
-		is an innovative solution to all disinfection problems . UV-C light penetrates the shell of the virus,
-		reaches its RNA and changes its structure, rendering it incapable of infecting surfaces and people. </p>
+	<p> GERMI SPLIT is a germicidal UV-C LED light system designed
+specifically for mini-split and other ductless air-conditioning units
+in residential and commercial applications.
+It is an established fact that viruses and bacteria are airborne.
+The germicidal UVC light kills microorganisms such as mold and
+bacteria that grow inside the A/C unit as well as helps reduce the
+airborne contaminants such as germs, viruses and allergens
+passing through the system thereby providing continuous
+sterilization and protection when the system is in operation. </p>
 
 </section>
 
@@ -133,10 +139,12 @@
 					<div class="preview-pic tab-content">
 						<div class="tab-pane active" id="pic-1"><img src="img/gs-1.png" /></div>
 						<div class="tab-pane" id="pic-2"><img src="img/gs-3.jpg" /></div>
+						<div class="tab-pane" id="pic-3"><img src="img/gs-4.jpg" /></div>
 					</div>
 					<ul class="preview-thumbnail nav nav-tabs">
 						<li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="img/gs-1.png" /></a></li>
 						<li><a data-target="#pic-2" data-toggle="tab"><img src="img/gs-3.jpg" /></a></li>
+						<li><a data-target="#pic-3" data-toggle="tab"><img src="img/gs-4.jpg" /></a></li>
 					</ul>
 
 				</div>
@@ -156,14 +164,14 @@
 						reaches its RNA and changes its structure, rendering it incapable of infecting surfaces and people.</p>
 					<h4 class="price pt-5">current price: <span>4250</span></h4>
 					<div class="action pt-5">
-						<a href="https://www.instamojo.com/@germiscan/lec6a042d8e7642c98e42a3ce2a0818bd/" rel="im-checkout" data-text="Pay with Instamojo" data-css-style="color:#ffffff; background:#75c26a; width:300px; border-radius:4px" data-layout="vertical"></a>
+						<a href="https://www.instamojo.com/@germiscan/lec6a042d8e7642c98e42a3ce2a0818bd/" rel="im-checkout" data-text="Pay with Instamojo" data-css-style="color:#ffffff; background:#9D2EDE; width:200px; margin-left: 0px; border-radius:4px" data-layout="vertical"></a>
 						<script src="https://js.instamojo.com/v1/button.js"></script>
-						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+						<!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="Q5LG72KDRCXE8">
 							<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-						</form>
+						</form> -->
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input type="hidden" name="cmd" value="_s-xclick">
 							<input type="hidden" name="hosted_button_id" value="VQ7GZSFZZZJZ2">

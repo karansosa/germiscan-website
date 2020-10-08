@@ -24,7 +24,16 @@
   <!-- Slick -->
   <link href="css/slick.css?1234" rel="stylesheet">
   <link href="css/slick-theme.css" rel="stylesheet">
-</head>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178420646-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-178420646-1');
+  </script>
+  </head>
 
 <body>
 

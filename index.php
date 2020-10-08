@@ -34,7 +34,7 @@
 		<div class="row pt-5">
 			<div class="col-md-6">
 			<figure class="card card-product">
-			<div class="img-wrap"><img src="img/gs-1.png" width="500"></div>
+			<div class="img-wrap"><img src="img/slider-9.png" width="400"></div>
 			<figcaption class="info-wrap">
 					<h4 class="title">Germisplit</h4>
 					<p class="desc">UV-C LED LIGHT environmental air disinfection system</p>

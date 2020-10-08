@@ -13,15 +13,13 @@
 <section class="wg" id="about" data-aos="fade-up">
 
 	<h1 class="text-center wgh">Why Germisplit</h1>
-	<p> GERMI SPLIT is a germicidal UV-C LED light system designed
-specifically for mini-split and other ductless air-conditioning units
-in residential and commercial applications.
-It is an established fact that viruses and bacteria are airborne.
-The germicidal UVC light kills microorganisms such as mold and
-bacteria that grow inside the A/C unit as well as helps reduce the
-airborne contaminants such as germs, viruses and allergens
-passing through the system thereby providing continuous
-sterilization and protection when the system is in operation. </p>
+	<p> GERMI SPLIT is a germicidal UV-C LED light system designed specifically for mini-split and other ductless air-conditioning units in residential and commercial applications.
+It is an established fact that viruses and bacteria are airborne. The germicidal UVC light kills microorganisms such as mold and bacteria that grow inside the A/C unit as well as helps reduce the
+airborne contaminants such as germs, viruses and allergens passing through the system thereby providing continuous sterilization and protection 
+when the system is in operation.  The air is sucked through the inlet of the Aircon where filters
+are placed which are usually only good for filtering dust particles.This air passes through the coil and then re-circulated in the room through the blower. UVC LED strip is
+placed facing the blower so that the pathogens are sterilized before leaving the aircon thus providing clean air free from
+allergens, bacteria, viruses and other pathogens.</p>
 
 </section>
 
@@ -64,7 +62,7 @@ sterilization and protection when the system is in operation. </p>
 				<div class="card app-card" style="width: auto;">
 					<img class="mt-4" src="img/label.png" alt="Card image cap">
 					<div class="card-body">
-						<h5 class="card-title text-center">2 years product warranty</h5>
+						<h5 class="card-title text-center">1 year product warranty</h5>
 					</div>
 				</div>
 			</div>
@@ -137,14 +135,16 @@ sterilization and protection when the system is in operation. </p>
 				<div class="preview col-md-6">
 
 					<div class="preview-pic tab-content">
-						<div class="tab-pane active" id="pic-1"><img src="img/gs-1.png" /></div>
+						<div class="tab-pane active" id="pic-1"><img src="img/slider-9.png" /></div>
 						<div class="tab-pane" id="pic-2"><img src="img/gs-3.jpg" /></div>
 						<div class="tab-pane" id="pic-3"><img src="img/gs-4.jpg" /></div>
+						<div class="tab-pane" id="pic-4"><img src="img/ac3.jpg" /></div>
 					</div>
 					<ul class="preview-thumbnail nav nav-tabs">
-						<li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="img/gs-1.png" /></a></li>
+						<li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="img/slider-9.png" /></a></li>
 						<li><a data-target="#pic-2" data-toggle="tab"><img src="img/gs-3.jpg" /></a></li>
 						<li><a data-target="#pic-3" data-toggle="tab"><img src="img/gs-4.jpg" /></a></li>
+						<li><a data-target="#pic-4" data-toggle="tab"><img src="img/ac3.jpg" /></a></li>
 					</ul>
 
 				</div>
@@ -159,9 +159,8 @@ sterilization and protection when the system is in operation. </p>
 							<span class="fa fa-star"></span>
 						</div>
 					</div>
-					<p class="product-description">Germiscan, a UV-C LED-based hand held sterilizer introduced by OPTOL who are pioneers in LED Lighting technology in India,
-						is an innovative solution to all disinfection problems . UV-C light penetrates the shell of the virus,
-						reaches its RNA and changes its structure, rendering it incapable of infecting surfaces and people.</p>
+					<p class="product-description">GERMI SPLIT is a germicidal UV-C LED light system designed specifically for mini-split and other ductless air-conditioning units in residential and commercial 
+					applications. It is an established fact that viruses and bacteria are airborne. </p>
 					<h4 class="price pt-5">current price: <span>4250</span></h4>
 					<div class="action pt-5">
 						<a href="https://www.instamojo.com/@germiscan/lec6a042d8e7642c98e42a3ce2a0818bd/" rel="im-checkout" data-text="Pay with Instamojo" data-css-style="color:#ffffff; background:#9D2EDE; width:200px; margin-left: 0px; border-radius:4px" data-layout="vertical"></a>

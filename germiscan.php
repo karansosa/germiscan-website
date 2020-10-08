@@ -15,7 +15,10 @@
 	<h1 class="text-center wgh">Why Germiscan</h1>
 	<p> Germiscan, a UV-C LED-based hand held sterilizer introduced by OPTOL who are pioneers in LED Lighting technology in India,
 		is an innovative solution to all disinfection problems . UV-C light penetrates the shell of the virus,
-		reaches its RNA and changes its structure, rendering it incapable of infecting surfaces and people. </p>
+		reaches its RNA and changes its structure, rendering it incapable of infecting surfaces and people.
+		This specially designed Anti UV spill handheld device creates a focused beam to achieve 99.9% sterilization in less than 6 seconds. 
+		It has an additional safety feature of a tilt sensor, which turns off the UVC light, if it is tilted more than 30 degrees. 
+		A safety feature of handheld. Safety switch to avoid direct radiation. </p>
 
 </section>
 
